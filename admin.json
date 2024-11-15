@@ -7,13 +7,5 @@
             "mobile": "9876543210",
             "address": "ahmedabad",
             "profile_photo": ""
-        },
-        {
-            "id": 2,
-            "username": "admin",
-            "password": "123",
-            "name": "bharat",
-            "mobile": "9876543210",
-            "address": "ahmedabad"
         }
     ]
