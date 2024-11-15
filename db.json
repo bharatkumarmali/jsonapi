@@ -1,0 +1,113 @@
+{
+    "login": [],
+    "register": [],
+    "heroSlider": [
+        {
+            "id": 1,
+            "image": "https://qph.cf2.quoracdn.net/main-qimg-d97b3ebb792671b16803f260b3a20475-lq",
+            "title": "Why to Digital Life Value-added Service"
+        },
+        {
+            "id": 2,
+            "image": "https://miro.medium.com/v2/resize:fit:2000/1*BNJr5BlL8NZEwHS1LpxTew.jpeg",
+            "title": "Government & Non Government Services"
+        },
+        {
+            "id": 3,
+            "image": "https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg",
+            "title": "Why to Digital Life Value-added Service"
+        },
+        {
+            "id": 4,
+            "image": "https://i.pinimg.com/736x/a5/9a/a2/a59aa2699c58fde95b99e5c6fe4014f7.jpg",
+            "title": "Government & Non Government Services"
+        }
+    ],
+    "serviceCards": [
+        {
+            "id": 1,
+            "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/v2-1.jpg",
+            "logo": "https://www.drkjodhpur.com/ver3/images/services/emitra.png",
+            "service_name": "E-Mitra",
+            "endPoint": "emitra",
+            "desc": "E-mitra service has been launched by government of Rajasthan. It is available in all 33 districts of Rajasthan. "
+        },
+        {
+            "id": 2,
+            "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/v2-3.jpg",
+            "logo": "https://www.drkjodhpur.com/ver3/images/services/aadhar.png",
+            "service_name": "aadhar center",
+            "endPoint": "aadhar",
+            "desc": "Aadhaar Seva Kendra project, UIDAI plans to set up 114 Aadhaar Seva Kendra across 53 cities in India. These include dedicated centres in all metro cities"
+        },
+        {
+            "id": 3,
+            "bannerImage": "https://biznext.in/blog/wp-content/uploads/2024/03/What-is-the-future-of-AEPS-1024x536.webp",
+            "logo": "https://5.imimg.com/data5/VK/EB/JA/SELLER-68660183/aeps-500x500.png",
+            "service_name": "AEPS service",
+            "endPoint": "aeps-id",
+            "desc": "The Aadhaar Enabled Payment System (AEPS) is a bank-led model that allows customers to perform financial transactions using their Aadhaar number"
+        },
+        {
+            "id": 4,
+            "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/pen.jpg",
+            "logo": "https://www.drkjodhpur.com/ver3/images/services/uti.png",
+            "service_name": "pan center",
+            "endPoint": "pan-center",
+            "desc": "UTI Infrastructure Technology And Services Limited (UTIITSL) is a Government Company under section 2(45) of the Companies Act 2013,"
+        }
+    ],
+    "overView": [
+        {
+            "id": 1,
+            "count": "550+",
+            "image": "https://www.drkjodhpur.com/ver3/images/services/aadhar.png",
+            "countTitle": "Operators",
+            "serviceName": "Aadhaar",
+            "desc": "Owing to the claims of duty or business will frequently occur that pleasures have to be repudiated and annoyances."
+        },
+        {
+            "id": 2,
+            "count": "7000+",
+            "image": "https://www.drkjodhpur.com/ver3/images/services/emitra.png",
+            "countTitle": "TOTAL KIOSKS",
+            "serviceName": "Emitra KIOSKS",
+            "desc": "Currently, Over 450+ G2C,B2B,and B2C Service are Being Provided through this platform acreoss all rural & urban in the State"
+        },
+        {
+            "id": 3,
+            "count": "1200+",
+            "image": "https://5.imimg.com/data5/VK/EB/JA/SELLER-68660183/aeps-500x500.png",
+            "countTitle": "AEPS ID",
+            "serviceName": "AEPS Service",
+            "desc": "The Aadhaar Enabled Payment System (AEPS) is a bank-led model that allows customers to perform financial transactions using their Aadhaar number"
+        },
+        {
+            "id": 4,
+            "count": "850+",
+            "image": "https://msnsolution.com/assets/uploads/media-uploader/bvcbcb1680345822.png",
+            "countTitle": "pan centers",
+            "serviceName": "PAN Centers",
+            "desc": "Our Online Services have a fully new facility to online Registration for New Pan CardApply Service with UTI and NSDL."
+        }
+    ],
+    "admin": [
+        {
+            "id": 1,
+            "email": "kishan@admin.com",
+            "password": "123",
+            "name": "kishan",
+            "mobile": "9876543210",
+            "address": "ahmedabad",
+            "profile_photo": ""
+        },
+        {
+            "id": 2,
+            "email": "bharat@admin.com",
+            "password": "123",
+            "name": "bharat",
+            "mobile": "9876543210",
+            "address": "ahmedabad"
+        }
+    ]
+}
