@@ -1,0 +1,19 @@
+[
+        {
+            "id": 1,
+            "email": "kishan@admin.com",
+            "password": "123",
+            "name": "kishan",
+            "mobile": "9876543210",
+            "address": "ahmedabad",
+            "profile_photo": ""
+        },
+        {
+            "id": 2,
+            "email": "bharat@admin.com",
+            "password": "123",
+            "name": "bharat",
+            "mobile": "9876543210",
+            "address": "ahmedabad"
+        }
+    ]
