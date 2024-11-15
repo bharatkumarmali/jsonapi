@@ -1,0 +1,34 @@
+ [
+        {
+            "id": 1,
+            "count": "550+",
+            "image": "https://www.drkjodhpur.com/ver3/images/services/aadhar.png",
+            "countTitle": "Operators",
+            "serviceName": "Aadhaar",
+            "desc": "Owing to the claims of duty or business will frequently occur that pleasures have to be repudiated and annoyances."
+        },
+        {
+            "id": 2,
+            "count": "7000+",
+            "image": "https://www.drkjodhpur.com/ver3/images/services/emitra.png",
+            "countTitle": "TOTAL KIOSKS",
+            "serviceName": "Emitra KIOSKS",
+            "desc": "Currently, Over 450+ G2C,B2B,and B2C Service are Being Provided through this platform acreoss all rural & urban in the State"
+        },
+        {
+            "id": 3,
+            "count": "1200+",
+            "image": "https://5.imimg.com/data5/VK/EB/JA/SELLER-68660183/aeps-500x500.png",
+            "countTitle": "AEPS ID",
+            "serviceName": "AEPS Service",
+            "desc": "The Aadhaar Enabled Payment System (AEPS) is a bank-led model that allows customers to perform financial transactions using their Aadhaar number"
+        },
+        {
+            "id": 4,
+            "count": "850+",
+            "image": "https://msnsolution.com/assets/uploads/media-uploader/bvcbcb1680345822.png",
+            "countTitle": "pan centers",
+            "serviceName": "PAN Centers",
+            "desc": "Our Online Services have a fully new facility to online Registration for New Pan CardApply Service with UTI and NSDL."
+        }
+    ]
