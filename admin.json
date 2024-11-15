@@ -1,7 +1,7 @@
 [
         {
             "id": 1,
-            "email": "kishan@admin.com",
+            "username": "admin",
             "password": "123",
             "name": "kishan",
             "mobile": "9876543210",
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "email": "bharat@admin.com",
+            "username": "admin",
             "password": "123",
             "name": "bharat",
             "mobile": "9876543210",
