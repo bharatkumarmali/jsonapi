@@ -2,7 +2,7 @@
         {
             "id": 1,
             "username": "admin",
-            "password": "123",
+            "password": "123456",
             "name": "kishan",
             "mobile": "9876543210",
             "address": "ahmedabad",
